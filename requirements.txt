@@ -1,0 +1,7 @@
+notify-py
+bs4
+requests
+termcolor 
+inquirer
+youtube-search-python
+prettytable
